@@ -2,7 +2,7 @@
 
 from typing import List
 
-
+# Revise
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         n = len(nums)

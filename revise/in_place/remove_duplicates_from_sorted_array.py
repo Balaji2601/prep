@@ -2,7 +2,7 @@
 
 from typing import List
 
-
+# Revise
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n = len(nums)
