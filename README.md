@@ -1,2 +1,2 @@
-# DSA
-This repo contains DSA practice started in 2026
+# Prep
+This repo contains prep started at July 24th 2026
