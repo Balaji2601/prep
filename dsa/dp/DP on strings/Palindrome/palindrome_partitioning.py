@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/palindrome-partitioning/description/
 
+# Revise
 # print
 
 from typing import List

@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 
+# Revise
 class Solution:
     def numOfArrays(self, n: int, m: int, k: int) -> int:
         MOD = 10**9+7

@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/maximum-number-of-points-with-cost/description/
 
+# Revise
 from typing import List
 
 # brute force
